@@ -3,7 +3,6 @@
 
 <p align="left"> 
   <a href="https://twitter.com/aabhaskrjha" target="blank"><img src="https://img.shields.io/twitter/follow/aabhaskrjha?logo=twitter&style=for-the-badge" alt="aabhaskrjha" /></a>
-  <a href="https://linkedin.com/in/aabhaskrjha" target="blank"><img src="https://img.shields.io/linkedin/follow/aabhaskrjha?logo=linkedin&style=for-the-badge" alt="aabhaskrjha" /></a>
 </p>
 
 
