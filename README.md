@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aabhas Kumar Jha (RogueCoder)</h1>
 <h3 align="center">Pythonista, Linux Enthusiast (I use Arch btw!)</h3>
 
-<p align="left"> <a href="https://twitter.com/aabhaskrjha" target="blank"><img src="https://img.shields.io/twitter/follow/aabhaskrjha?logo=twitter&style=for-the-badge" alt="aabhaskrjha" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/aabhaskrjha" target="blank"><img src="https://img.shields.io/twitter/follow/aabhaskrjha?logo=twitter&style=for-the-badge" alt="aabhaskrjha" /></a>
+  <a href="https://linkedin.com/in/aabhaskrjha" target="blank"><img src="https://img.shields.io/linkedin/follow/aabhaskrjha?logo=linkedin&style=for-the-badge" alt="aabhaskrjha" /></a>
+</p>
+
 
 - 🔭 I’m currently working on [various open source projects. View changelogs here.](https://www.aabhaskrjha.com/working)
 
