@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aabhas Kumar Jha (RogueCoder)</h1>
 <h3 align="center">Pythonista, Linux Enthusiast (I use Arch btw!)</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1yam9&label=Profile%20views&color=0e75b6&style=flat" alt="pr1yam9" /> </p>
 <p align="left"> 
   <a href="https://twitter.com/aabhaskrjha" target="blank"><img src="https://img.shields.io/twitter/follow/aabhaskrjha?logo=twitter&style=for-the-badge" alt="aabhaskrjha" /></a>
 </p>
