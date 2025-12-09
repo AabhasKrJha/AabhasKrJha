@@ -29,9 +29,20 @@ I work across modern LLM and automation tooling:
 ---
 
 ### Core Engineering Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nextjs,ts,postgres,aws,docker,linux" />
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp" height="40" />
+  <!-- Backend & Infra -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs,postgres,redis,aws,docker,linux" height="40" />
+  <!-- AI & LLM Ecosystem -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="OpenAI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" height="40" alt="Gemini"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" height="40" alt="Llama"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" alt="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" height="40" alt="Pinecone"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" height="40" alt="Apple"/>
 </p>
+
 
 ---
 
