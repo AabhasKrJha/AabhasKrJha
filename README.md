@@ -16,24 +16,28 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
 
 ---
 
-### Core Tech (Curated)
+### Core Tech 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,fastapi,postgres,redis,docker,aws,linux" height="40" />
+</p>
 
-  <!-- AI Logos (minimal curated set) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" />
+<p align="left">
+  <!-- AI Providers -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="OpenAI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" height="40" alt="Llama / Meta AI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" height="40" alt="Gemini / Google"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="40" alt="Claude"/>
+
+  <!-- AI Frameworks -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" alt="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/langchain.png" height="40" alt="LangChain"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/langgraph.png" height="40" alt="LangGraph"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/llamaindex.png" height="40" alt="LlamaIndex"/>
+
+  <!-- Vector DBs -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" height="40" alt="Pinecone"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/chroma.png" height="40" alt="Chroma"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/faiss.png" height="40" alt="FAISS"/>
 </p>
 
 ---
