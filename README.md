@@ -29,19 +29,65 @@ I work across modern LLM and automation tooling:
 ---
 
 ### Core Engineering Stack  
+
+### Category A — Software Engineering & Development
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp" height="40" />
-  <!-- Backend & Infra -->
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs,postgres,redis,aws,docker,linux" height="40" />
-  <!-- AI & LLM Ecosystem -->
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" height="40" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" />
+
+  <!-- Mobile -->
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" height="40" />
+
+  <!-- DevOps & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" height="40" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+</p>
+
+
+### Category B — AI, LLMs & Automation
+<p align="left">
+  <!-- LLM Providers -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="OpenAI"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" height="40" alt="Gemini"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" height="40" alt="Llama"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="40" alt="Claude"/>
+
+  <!-- AI Frameworks -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" alt="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/langchain.png" height="40" alt="LangChain"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/langgraph.png" height="40" alt="LangGraph"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/llamaindex.png" height="40" alt="LlamaIndex"/>
+
+  <!-- Vector DBs -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" height="40" alt="Pinecone"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" height="40" alt="Apple"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/chroma.png" height="40" alt="ChromaDB"/>
+  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/faiss.png" height="40" alt="FAISS"/>
 </p>
+
+
+### Category C — Enterprise Systems & SaaS Platforms
+<p align="left">
+  <!-- Platforms & Ecosystem -->
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" height="40" alt="Apple"/>
+
+  <!-- Additional Enterprise Tools -->
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</p>
+
 
 
 ---
