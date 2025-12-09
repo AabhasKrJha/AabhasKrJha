@@ -53,7 +53,12 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
 </p>
 
 <p style="margin:0; padding:0;">
-  <img src="https://www.ramslabs.com/ramslabs-logo.svg" height="18" style="vertical-align: middle; margin-right: 6px;" />
+  <img 
+    src="https://www.ramslabs.com/ramslabs-logo.svg" 
+    height="18" 
+    style="vertical-align: middle; margin-right: 6px; background:white; padding:2px; border-radius:4px;"
+  />
   <strong>RamsLabs:</strong>
   <a href="https://ramslabs.com" target="_blank">https://ramslabs.com</a>
 </p>
+
