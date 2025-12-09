@@ -16,29 +16,30 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
 
 ---
 
-### Core Tech 
+### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,fastapi,postgres,redis,docker,aws,linux" height="40" />
 </p>
-
 <p align="left">
-  <!-- AI Providers -->
-  <img src="https://us1.discourse-cdn.com/openai1/original/4X/3/2/1/321a1ba297482d3d4060d114860de1aa5610f8a9.png" height="40" alt="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg/960px-Meta_Platforms_Inc._logo_%28cropped%29.svg.png?20230731184236" height="40" alt="Llama / Meta AI"/>
-  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/gemini-app-icon.png" height="40" alt="Gemini / Google"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude-color.png" height="40" alt="Claude"/>
+  <!-- LLM Providers -->
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/openai_logo.png" height="40" alt="OpenAI" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/google_logo.png" height="40" alt="Google / Gemini" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/meta_logo.png" height="40" alt="Meta / Llama" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/claude_logo.png" height="40" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/deepseek_logo.png" height="40" alt="DeepSeek" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/ollama_logo.png" height="40" alt="Ollama" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/opneRouter_logo.png" height="40" alt="OpenRouter" />
 
-  <!-- AI Frameworks -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" alt="HuggingFace"/>
-  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/langchain.png" height="40" alt="LangChain"/>
-  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/langgraph.png" height="40" alt="LangGraph"/>
-  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/llamaindex.png" height="40" alt="LlamaIndex"/>
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/langchain_logo.png" height="40" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/llamaindex_logo.png" height="40" alt="LlamaIndex" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/huggingface_logo.png" height="40" alt="HuggingFace" />
 
-  <!-- Vector DBs -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" height="40" alt="Pinecone"/>
-  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/chroma.png" height="40" alt="Chroma"/>
-  <img src="https://raw.githubusercontent.com/aabhaskrjha/static-host/main/icons/faiss.png" height="40" alt="FAISS"/>
+  <!-- Vector DBs + Automation -->
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/pinecone_logo.png" height="40" alt="Pinecone" />
+  <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/n8n_logo.png" height="40" alt="n8n" />
 </p>
+
 
 ---
 
@@ -51,17 +52,6 @@ I work across modern LLM and automation tooling:
 - **Vector Search:** Pinecone, FAISS, Chroma  
 - **Workflows:** RAG systems, evaluation engines, internal copilots  
 - **Infra:** AWS, Docker, Redis, PostgreSQL  
-
----
-
-### Selected Work  
-- **Enterprise Systems:** logistics automation, dashboards, operations tooling  
-- **SaaS Platforms:** multi-role apps, admin systems, real-time dashboards  
-- **AI Tools:** copilots, evaluation engines, workflow automation  
-- **Founder MVPs:** fast, clean, scalable first versions  
-
-Portfolio → **https://aabhaskrjha.com**  
-Studio → **https://ramslabs.com**
 
 ---
 
