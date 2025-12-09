@@ -1,57 +1,52 @@
-<h1 align="center">Hey, I'm Aabhas 👋</h1>
+<h1 align="center">Aabhas Kumar Jha</h1>
 <h3 align="center">AI Engineer • SaaS Builder • Founder @ RamsLabs</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabhaskrjha&style=flat-square" alt="views"/>
-</p>
 
 ---
 
-### 🚀 What I Do
-I build **AI-driven**, **automation-heavy**, and **scalable** software systems for startups and enterprises.  
-My work includes full-stack engineering (Next.js + Django REST), backend architecture, automation tools, and cloud deployments on AWS.
+### About Me  
+I build AI-driven, automation-focused, and scalable software systems for startups and enterprises.  
+My work spans backend engineering (Python, Django REST, FastAPI), SaaS development (Next.js, React), mobile apps, and cloud deployments on AWS.
 
-**Highlights**
+**Impact**  
 - Built logistics automation used across **700+ trains**  
 - Developed LMS platforms for **2,000+ students**  
 - Delivered **20+ AI automation tools & custom products**  
-- Reduced operational workload by **60–80%** for multiple teams  
+- Reduced operational workload by **60–80%** across multiple teams  
+- Built dashboards, CRMs, ERPs, hiring systems, and internal copilots  
 
 ---
 
-### 🧠 Current Focus
-- AI copilots & workflow automation  
-- LLM-based internal tools  
-- Synthetic data pipelines  
-- High-performance backend patterns  
+### AI & Automation Stack  
+I work across modern LLM and automation tooling:
+
+- **Models:** Llama, OpenAI GPT APIs, Gemini, Claude  
+- **Frameworks:** LangChain, LangGraph, LlamaIndex  
+- **Pipelines:** data scraping, cleaning, structuring, synthetic data generation  
+- **Vector Search:** Pinecone, FAISS, Chroma  
+- **Workflows:** RAG systems, evaluation engines, internal copilots  
+- **Infra:** AWS (EC2, S3, RDS), Docker, Redis, PostgreSQL  
 
 ---
 
-### 🛠️ Core Tech
+### Core Engineering Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,aws,docker,linux,react,nextjs,ts,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nextjs,ts,postgres,aws,docker,linux" />
 </p>
 
 ---
 
-### 📂 Selected Work
-- **RamsLabs Systems** — AI automation, dashboards, enterprise tooling  
-- **EdTech Platforms** — evaluation, content, analytics for large student bases  
-- **Custom SaaS + Internal Tools** — CRMs, ERPs, hiring systems, lead-gen engines  
+### Selected Work  
+- **Enterprise & Ops Systems:** automation, dashboards, logistics tooling  
+- **SaaS Products:** multi-role platforms, admin systems, internal tools  
+- **AI Tools:** evaluation engines, copilots, workflow automation  
+- **Founders MVPs:** fast, clean, scalable first versions  
 
-More at **https://aabhaskrjha.com**  
+Portfolio → **https://aabhaskrjha.com**  
 Studio → **https://ramslabs.com**
 
 ---
 
-### 📬 Connect
-- Email: **abhasjha03@gmail.com**  
-- LinkedIn: **linkedin.com/in/aabhaskrjha**  
-- Twitter: **@aabhaskrjha**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabhaskrjha&show_icons=true&hide_title=true&count_private=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhaskrjha&layout=compact&theme=default" height="160"/>
-</p>
+### Contact  
+Email: **abhasjha03@gmail.com**  
+LinkedIn: **linkedin.com/in/aabhaskrjha**  
+Twitter: **@aabhaskrjha**
