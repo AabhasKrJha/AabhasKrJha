@@ -1,8 +1,6 @@
 <h1 align="center">Aabhas Kumar Jha</h1>
 <h3 align="center">AI Engineer • SaaS Builder • Founder @ RamsLabs</h3>
 
----
-
 ### About Me  
 I build AI-driven, automation-focused, and scalable software systems for startups and enterprises.  
 My work spans backend engineering (Python, Django REST, FastAPI), SaaS development (Next.js, React), mobile apps, and cloud deployments on AWS.
@@ -13,8 +11,6 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
 - Built **20+ AI automation tools** & internal copilots  
 - Reduced operational workload by **60–80%** for teams  
 - Delivered dashboards, CRMs, ERPs, hiring systems, and workflow engines  
-
----
 
 ### Tech Stack
 <p align="left">
@@ -40,9 +36,6 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/n8n_logo.png" height="40" alt="n8n" />
 </p>
 
-
----
-
 ### AI & Automation  
 I work across modern LLM and automation tooling:
 
@@ -52,8 +45,6 @@ I work across modern LLM and automation tooling:
 - **Vector Search:** Pinecone, FAISS, Chroma  
 - **Workflows:** RAG systems, evaluation engines, internal copilots  
 - **Infra:** AWS, Docker, Redis, PostgreSQL  
-
----
 
 ### Contact  
 Email: **abhasjha03@gmail.com**  
