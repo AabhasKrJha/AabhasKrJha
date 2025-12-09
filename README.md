@@ -23,10 +23,10 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
 
 <p align="left">
   <!-- AI Providers -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="OpenAI"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" height="40" alt="Llama / Meta AI"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" height="40" alt="Gemini / Google"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="40" alt="Claude"/>
+  <img src="https://us1.discourse-cdn.com/openai1/original/4X/3/2/1/321a1ba297482d3d4060d114860de1aa5610f8a9.png" height="40" alt="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg/960px-Meta_Platforms_Inc._logo_%28cropped%29.svg.png?20230731184236" height="40" alt="Llama / Meta AI"/>
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/gemini-app-icon.png" height="40" alt="Gemini / Google"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/claude-color.png" height="40" alt="Claude"/>
 
   <!-- AI Frameworks -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" alt="HuggingFace"/>
