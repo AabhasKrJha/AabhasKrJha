@@ -3,7 +3,7 @@
   AI Engineer • SaaS Builder • Founder 
   <a href="https://www.ramslabs.com" target="_blank">
     @RamsLabs
-    <img src="https://www.ramslabs.com/ramslabs-logo.svg" height="18" style="vertical-align: middle; margin-left: 4px;" />
+    <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/logo-ramslabs.jpg" height="18" style="vertical-align: middle; margin-left: 4px;" />
   </a>
 </h3>
 
@@ -54,7 +54,7 @@ My work spans backend engineering (Python, Django REST, FastAPI), SaaS developme
 
 <p style="margin:0; padding:0;">
   <img 
-    src="https://www.ramslabs.com/ramslabs-logo.svg" 
+    src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/logo-ramslabs.jpg" 
     height="18" 
     style="vertical-align: middle; margin-right: 6px; background:white; padding:2px; border-radius:4px;"
   />
