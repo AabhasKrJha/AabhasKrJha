@@ -1,17 +1,23 @@
 <h1 align="center">Aabhas Kumar Jha</h1>
+
 <h3 align="center">
-  AI Engineer • SaaS Builder • Founder 
-  <a href="https://www.ramslabs.com" target="_blank">
-    @RamsLabs
-    <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/logo-ramslabs.jpg" height="18" style="vertical-align: middle; margin-left: 4px;" />
-  </a>
+Systems Builder • AI Engineer
 </h3>
 
 #### About Me
 
-I build AI-driven, automation-focused, and scalable software systems for startups and enterprises. 
+I build software systems from scratch.
 
-My work spans backend engineering (Python, Django REST, FastAPI), SaaS development (Next.js, React), mobile apps, and cloud deployments on AWS.
+My work focuses on **AI platforms, backend architecture, and SaaS products**, usually taking a problem from idea → system design → production deployment.
+
+I enjoy building **foundational infrastructure** — products that automate complex workflows and quietly become part of how teams operate.
+
+Some of the systems I’ve worked on include:
+
+• **Bloomscope** — EdTech platform built with IIT Bombay researchers  
+• **EBIC AI** — Enterprise AI platform for PR intelligence and media analytics  
+• **Godown** — B2B SaaS procurement and vendor management system for manufacturing companies  
+• **Automation systems and internal copilots** used by operations teams  
 
 **Impact**  
 - Logistics automation used across **700+ trains**  
