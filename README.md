@@ -5,11 +5,9 @@
 
 ## What I Build
 
-I build software systems from scratch — from idea to architecture to production.
+I build software systems from scratch — AI platforms, backend architecture, and B2B SaaS. 
 
-I'm a founder and the sole technical lead on a B2B SaaS product in the manufacturing space, and I run a product-focused dev studio where I lead end-to-end delivery for clients across industries.
-
-My work focuses on **foundational infrastructure** — workflow automation, AI-integrated platforms, and backend systems that quietly become load-bearing parts of how teams operate.
+Founder and sole technical lead on a tech product in manufacturing and procurement, and running a product-focused dev studio.
 
 ---
 
