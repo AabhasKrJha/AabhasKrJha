@@ -1,41 +1,49 @@
 <h1 align="center">Aabhas Kumar Jha</h1>
+<h3 align="center">Systems Builder &nbsp;•&nbsp; AI Engineer &nbsp;•&nbsp; Founder</h3>
 
-<h3 align="center">
-Systems Builder • AI Engineer
-</h3>
+<br />
 
-#### About Me
+## What I Build
 
-I build software systems from scratch.
+I build software systems from scratch — from idea to architecture to production.
 
-My work focuses on **AI platforms, backend architecture, and SaaS products**, usually taking a problem from idea → system design → production deployment.
+I'm a founder and the sole technical lead on a B2B SaaS product in the manufacturing space, and I run a product-focused dev studio where I lead end-to-end delivery for clients across industries.
 
-I enjoy building **foundational infrastructure** — products that automate complex workflows and quietly become part of how teams operate.
+My work focuses on **foundational infrastructure** — workflow automation, AI-integrated platforms, and backend systems that quietly become load-bearing parts of how teams operate.
 
-Some of the systems I’ve worked on include:
+---
 
-• **Bloomscope** — EdTech platform built with IIT Bombay researchers  
-• **EBIC AI** — Enterprise AI platform for PR intelligence and media analytics  
-• **Godown** — B2B SaaS procurement and vendor management system for manufacturing companies  
-• **Automation systems and internal copilots** used by operations teams  
+## Impact
 
-**Impact**  
-- Logistics automation used across **700+ trains**  
-- LMS platforms serving **2,000+ students**  
-- Built **20+ AI automation tools** & internal copilots  
-- Reduced operational workload by **60-80%** for teams  
-- Delivered dashboards, CRMs, ERPs, hiring systems, and workflow engines  
+- 🚆 Logistics automation deployed across **700+ trains**
+- 🎓 LMS platforms serving **2,000+ students**
+- 🤖 Built **20+ AI automation tools** and internal copilots
+- ⚡ Reduced operational workload by **60–80%** for operations teams
+- 📦 Delivered dashboards, CRMs, ERPs, hiring systems, and workflow engines
 
-#### Tech Stack 
+---
+
+## Selected Work
+
+| Domain | What I built |
+|---|---|
+| **Manufacturing & Procurement** | B2B SaaS — vendor management, indent workflows, ERP integrations |
+| **PR & Media Intelligence** | Enterprise AI platform — media scraping, LLM sentiment analysis, crisis detection |
+| **EdTech** | LMS platform — content delivery, assessments, student tracking |
+| **Logistics** | Automation systems used across large-scale rail operations |
+| **Internal Tooling** | Copilots and workflow engines for operations teams |
+
+---
+
+## Tech Stack
 
 <p align="left">
-  <!-- Core Tech -->
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,fastapi,postgres,redis,docker,aws,linux" height="38" />
-
 </p>
 
+**AI Stack**
+
 <p>
-  <!-- AI Stack -->
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/openai_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/google_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/meta_logo.png" height="40" />
@@ -43,28 +51,28 @@ Some of the systems I’ve worked on include:
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/deepseek_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/ollama_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/opneRouter_logo.png" height="40" />
-
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/langchain_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/llamaindex_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/huggingface_logo.png" height="40" />
-
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/pinecone_logo.png" height="40" />
   <img src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/n8n_logo.png" height="40" />
-</p> 
+</p>
+
+---
+
+## Find Me
 
 <p style="margin:0; padding:0;">
   <img src="https://www.aabhaskrjha.com/favicon.ico" height="18" style="vertical-align: middle; margin-right: 6px;" />
   <strong>Website:</strong>
   <a href="https://aabhaskrjha.com" target="_blank">https://aabhaskrjha.com</a>
 </p>
-
 <p style="margin:0; padding:0;">
   <img 
     src="https://raw.githubusercontent.com/AabhasKrJha/AabhasKrJha/refs/heads/main/logo-ramslabs.jpg" 
     height="18" 
     style="vertical-align: middle; margin-right: 6px; background:white; padding:2px; border-radius:4px;"
   />
-  <strong>RamsLabs:</strong>
+  <strong>Rams Labs:</strong>
   <a href="https://ramslabs.com" target="_blank">https://ramslabs.com</a>
 </p>
-
