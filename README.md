@@ -32,7 +32,7 @@ Manufacturing, Logistics, Supply Chain, Procurement, EdTech, Healthcare, Cyberse
 #### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,fastapi,postgres,redis,docker,aws,linux" height="36" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,nextjs,postgres,redis,docker,aws,linux" height="36" />
 </p>
 
 <p align="left">
